@@ -7,3 +7,5 @@ https://securityaffairs.co/wordpress/107094/apt/redcurl-hacking-group.html
 https://cyware.com/news/redcurl-apt-group-launched-massive-corporate-espionage-campaign-5077ef6d
 
 https://www.cyberscoop.com/corporate-espionage-hackers-redcurl-group-ib/
+
+https://heimdalsecurity.com/blog/redcurl-makes-a-comeback-updated-hacking-tools/
